@@ -1,0 +1,402 @@
+﻿Biosynthesis,"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis",Vitamin Biosynthesis ,Folate Biosynthesis,1CMET2-PWY: N10-formyl-tetrahydrofolate biosynthesis
+Degradation/Utilization/Assimilation,Amine and Polyamine Degradation , Allantoin Degradation,,ALLANTOINDEG-PWY: superpathway of allantoin degradation in yeast
+Generation of Precursor Metabolite and Energy ,Fermentation,Fermentation to Short-Chain Fatty Acids,Fermentation to Lactate,ANAEROFRUCAT-PWY: homolactic fermentation
+Generation of Precursor Metabolite and Energy ,Glycolysis,,,ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)
+Biosynthesis,Amine and Polyamine Biosynthesis,,,ARG+POLYAMINE-SYN: superpathway of arginine and polyamine biosynthesis
+Biosynthesis,Amino Acid Biosynthesis,Other Amino Acid Biosynthesis ,L-Ornithine Biosynthesis,ARGININE-SYN4-PWY: L-ornithine de novo  biosynthesis
+Degradation/Utilization/Assimilation,Amino Acid Degradation,Proteinogenic Amino Acid Degradation,L-arginine Degradation,"ARGORNPROST-PWY: arginine, ornithine and proline interconversion"
+Biosynthesis,Amino Acid Biosynthesis,Proteinogenic Amino Acid Biosynthesis,L-arginine Biosynthesis,ARGSYN-PWY: L-arginine biosynthesis I (via L-ornithine)
+Biosynthesis,Amino Acid Biosynthesis,Proteinogenic Amino Acid Biosynthesis,L-arginine Biosynthesis,ARGSYNBSUB-PWY: L-arginine biosynthesis II (acetyl cycle)
+Biosynthesis,Aromatic Compound Biosynthesis,Chorismate Biosynthesis,,ARO-PWY: chorismate biosynthesis I
+Biosynthesis,Amino Acid Biosynthesis,,,ASPASN-PWY: superpathway of L-aspartate and L-asparagine biosynthesis
+Degradation/Utilization/Assimilation,Amino Acid Degradation,Proteinogenic Amino Acid Degradation,L-arginine Degradation,AST-PWY: L-arginine degradation II (AST pathway)
+Biosynthesis,"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis",Vitamin Biosynthesis,Biotin Biosynthesis,BIOTIN-BIOSYNTHESIS-PWY: biotin biosynthesis I
+Biosynthesis,Amino Acid Biosynthesis,,,BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis
+Degradation/Utilization/Assimilation,C1 Compound Utilization and Assimilation,CO2 Fixation,Autotrophic CO2 Fixation,CALVIN-PWY: Calvin-Benson-Bassham cycle
+Degradation/Utilization/Assimilation,Aromatic Compound Degradation,Catechol Degradation,,CATECHOL-ORTHO-CLEAVAGE-PWY: catechol degradation to &beta;-ketoadipate
+Biosynthesis,Amino Acid Biosynthesis,Other Amino Acid Biosynthesis ,L-citrulline Biosynthesis,CITRULBIO-PWY: L-citrulline biosynthesis
+Biosynthesis,"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis",Coenzyme A Biosynthesis,,COA-PWY-1: coenzyme A biosynthesis II (mammalian)
+Biosynthesis,"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis",Coenzyme A Biosynthesis,,COA-PWY: coenzyme A biosynthesis I
+Biosynthesis,"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis",Vitamin Biosynthesis,Cobamide Biosynthesis,COBALSYN-PWY: adenosylcobalamin salvage from cobinamide I
+Biosynthesis,Carbohydrate Biosynthesis,,,COLANSYN-PWY: colanic acid building blocks biosynthesis
+Biosynthesis,Amino Acid Biosynthesis,,,COMPLETE-ARO-PWY: superpathway of aromatic amino acid biosynthesis
+Biosynthesis,Amino Acid Biosynthesis,Proteinogenic Amino Acid Biosynthesis,L-lysine Biosynthesis,DAPLYSINESYN-PWY: L-lysine biosynthesis I
+Degradation/Utilization/Assimilation,Inorganic Nutrient Metabolism,Nitrogen Compound Metabolism,Denitrification,DENITRIFICATION-PWY: nitrate reduction I (denitrification)
+Biosynthesis,Nucleoside and Nucleotide Biosynthesis,Purine Nucleotide Biosynthesis,Purine Nucleotide De Novo Biosynthesis,DENOVOPURINE2-PWY: superpathway of purine nucleotides de novo biosynthesis II
+Biosynthesis,Carbohydrate Biosynthesis,Sugar Biosynthesis,Sugar Nucleotide Biosynthesis,DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I
+Biosynthesis,Fatty Acid and Lipid Biosynthesis,Sterol Biosynthesis,Ergosterol BiosynthesisSuperpathways,ERGOSTEROL-SYN-PWY: superpathway of ergosterol biosynthesis I
+Degradation/Utilization/Assimilation,Fatty Acid and Lipid Degradation,Fatty Acid Degradation,,FAO-PWY: fatty acid &beta;-oxidation I
+Biosynthesis,Fatty Acid and Lipid Biosynthesis,Fatty Acid Biosynthesis,,FASYN-ELONG-PWY: fatty acid elongation -- saturated
+Biosynthesis,Fatty Acid and Lipid Biosynthesis,Fatty Acid Biosynthesis,,FASYN-INITIAL-PWY: superpathway of fatty acid biosynthesis initiation (E. coli)
+Generation of Precursor Metabolite and Energy,Fermentation,Pyruvate Fermentation to Ehanol,,FERMENTATION-PWY: mixed acid fermentation
+Biosynthesis,"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis",Vitamin Biosynthesis,Folate Biosynthesis,FOLSYN-PWY: superpathway of tetrahydrofolate biosynthesis and salvage
+Degradation/Utilization/Assimilation,Carbohydrate Degradation,Sugar Degradation,,FUC-RHAMCAT-PWY: superpathway of fucose and rhamnose degradation
+Degradation/Utilization/Assimilation,Carbohydrate Degradation,Sugar Degradation,,FUCCAT-PWY: fucose degradation
+Degradation/Utilization/Assimilation,Carboxylate Degradation,Sugar Acid Degradation,,GALACT-GLUCUROCAT-PWY: superpathway of hexuronide and hexuronate degradation
+Degradation/Utilization/Assimilation,Carboxylate Degradation,Sugar Acid Degradation,D-Galactarate Degradation,GALACTARDEG-PWY: D-galactarate degradation I
+Degradation/Utilization/Assimilation,Carboxylate Degradation,Sugar Acid Degradation ,D-Galacturonate Degradation,GALACTUROCAT-PWY: D-galacturonate degradation I
+Degradation/Utilization/Assimilation,Amine and Polyamine Degradation,,,"GLCMANNANAUT-PWY: superpathway of N-acetylglucosamine, N-acetylmannosamine and N-acetylneuraminate degradation"
+Degradation/Utilization/Assimilation,Carboxylate Degradation,Sugar Acid Degradation,D-Glucarate Degradation,GLUCARDEG-PWY: D-glucarate degradation I
+Degradation/Utilization/Assimilation,Carboxylate Degradation,Sugar Acid Degradation,,GLUCARGALACTSUPER-PWY: superpathway of D-glucarate and D-galactarate degradation
+Biosynthesis,Carbohydrate Biosynthesis,Sugar Biosynthesis,Gluconeogenesis,GLUCONEO-PWY: gluconeogenesis I
+Degradation/Utilization/Assimilation,Carbohydrate Degradation,Sugar Degradation,,GLUCOSE1PMETAB-PWY: glucose and glucose-1-phosphate degradation
+Degradation/Utilization/Assimilation,Carboxylate Degradation,Sugar Acid Degradation,D-Glucuronate Degradation,GLUCUROCAT-PWY: superpathway of &beta;-D-glucuronide and D-glucuronate degradation
+Biosynthesis,Amino Acid Biosynthesis,Other Amino Acid Biosynthesis,L-Ornithine Biosynthesis,GLUTORN-PWY: L-ornithine biosynthesis
+Degradation/Utilization/Assimilation,Carbohydrate Degradation,Polysaccharide Degradation,Glycogen Degradation,GLYCOCAT-PWY: glycogen degradation I (bacterial)
+Biosynthesis,Carbohydrate Biosynthesis,Glycan Biosynthesis,Polysaccharide Biosynthesis,GLYCOGENSYNTH-PWY: glycogen biosynthesis I (from ADP-D-Glucose)
+Degradation/Utilization/Assimilation,Alcohol Degradation,,,GLYCOL-GLYOXDEG-PWY: superpathway of glycol metabolism and degradation
+Generation of Precursor Metabolite and Energy,Glycolysis,,,GLYCOLYSIS-E-D: superpathway of glycolysis and Entner-Doudoroff
+Generation of Precursor Metabolite and Energy,Glycolysis,,,"GLYCOLYSIS-TCA-GLYOX-BYPASS: superpathway of glycolysis, pyruvate dehydrogenase, TCA, and glyoxylate bypass"
+Generation of Precursor Metabolite and Energy,Glycolysis,,,GLYCOLYSIS: glycolysis I (from glucose 6-phosphate)
+Generation of Precursor Metabolite and Energy,,,,GLYOXYLATE-BYPASS: glyoxylate cycle
+Degradation/Utilization/Assimilation,Alcohol Degradation,Glycerol Degradation,,"GOLPDLCAT-PWY: superpathway of glycerol degradation to 1,3-propanediol"
+Biosynthesis,"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis",Porphyrin Compound Biosynthesis,Heme Biosynthesis,HEME-BIOSYNTHESIS-II: heme biosynthesis I (aerobic)
+Biosynthesis,"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis",Porphyrin Compound Biosynthesis,Heme Biosynthesis,HEMESYN2-PWY: heme biosynthesis II (anaerobic)
+Degradation/Utilization/Assimilation,Secondary Metabolite Degradation,Sugar Derivative Degradation,Sugar Alcohol Degradation,HEXITOLDEGSUPER-PWY: superpathway of hexitol degradation (bacteria)
+Degradation/Utilization/Assimilation,Amino Acid Degradation,Proteinogenic Amino Acid Degradation,L-histidine Degradation,HISDEG-PWY: L-histidine degradation I
+Biosynthesis,Amino Acid Biosynthesis,Proteinogenic Amino Acid Biosynthesis,L-histidine Biosynthesis,HISTSYN-PWY: L-histidine biosynthesis
+Biosynthesis,Amino Acid Biosynthesis,Proteinogenic Amino Acid Biosynthesis,L-methionine Biosynthesis,HOMOSER-METSYN-PWY: L-methionine biosynthesis I
+Biosynthesis,Amino Acid Biosynthesis,Proteinogenic Amino Acid Biosynthesis,L-methionine Biosynthesis,HSERMETANA-PWY: L-methionine biosynthesis III
+Biosynthesis,Amino Acid Biosynthesis,Proteinogenic Amino Acid Biosynthesis,L-isoleucine Biosynthesis,ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)
+Degradation/Utilization/Assimilation,Carbohydrate Degradation,Sugar Degradation,Galactose Degradation,LACTOSECAT-PWY: lactose and galactose degradation I
+Degradation/Utilization/Assimilation,Proteinogenic Amino Acid Degradation ,Proteinogenic Amino Acid Degradation ,L-leucine Degradation,LEU-DEG2-PWY: L-leucine degradation I
+Degradation/Utilization/Assimilation,Fatty Acid and Lipid Degradation,,,LIPASYN-PWY: phospholipases
+Biosynthesis,Amino Acid Biosynthesis,Proteinogenic Amino Acid Biosynthesis,L-lysine Biosynthesis,LYSINE-AMINOAD-PWY: L-lysine biosynthesis IV
+Biosynthesis,Carbohydrate Biosynthesis,Glycan Biosynthesis ,Protein Glycosylation,"MANNOSYL-CHITO-DOLICHOL-BIOSYNTHESIS: protein N-glycosylation (eukaryotic, high mannose)"
+Biosynthesis,"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis",,,MET-SAM-PWY: superpathway of S-adenosyl-L-methionine biosynthesis
+Degradation/Utilization/Assimilation,Aldehyde Degradation,,,METHGLYUT-PWY: superpathway of methylglyoxal degradation
+Biosynthesis,Amino Acid Biosynthesis,Proteinogenic Amino Acid Biosynthesis,L-methionine Biosynthesis,METSYN-PWY: L-homoserine and L-methionine biosynthesis
+Biosynthesis,"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis",NAD Metabolism,NAD Biosynthesis,NAD-BIOSYNTHESIS-II: NAD salvage pathway II
+Biosynthesis,"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis",NAD Metabolism,NAD Biosynthesis,NADSYN-PWY: NAD biosynthesis II (from tryptophan)
+Biosynthesis,Cell Structure Biosynthesis,Lipopolysaccharide Biosynthesis,,NAGLIPASYN-PWY: lipid IVA biosynthesis
+Biosynthesis,Secondary Metabolite Biosynthesis,Terpenoid Biosynthesis,Hemiterpene Biosynthesis,NONMEVIPP-PWY: methylerythritol phosphate pathway I
+Generation of Precursor Metabolite and Energy,Pentose Phosphate Pathways,,,NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)
+Biosynthesis,Carbohydrate Biosynthesis,Sugar Biosynthesis,Sugar Nucleotide Biosynthesis,OANTIGEN-PWY: O-antigen building blocks biosynthesis (E. coli)
+Degradation/Utilization/Assimilation,Amine and Polyamine Degradation,,,ORNDEG-PWY: superpathway of ornithine degradation
+Generation of Precursor Metabolite and Energy,TCA cycle,,,P105-PWY: TCA cycle IV (2-oxoglutarate decarboxylase)
+Generation of Precursor Metabolite and Energy,Fermentation,Fermentation of Pyruvate,Pyruvate Fermentation to Propanoate,P108-PWY: pyruvate fermentation to propanoate I
+Generation of Precursor Metabolite and Energy,Fermentation,Fermentation of Pyruvate,Pyruvate Fermentation to Ehanol,P122-PWY: heterolactic fermentation
+Degradation/Utilization/Assimilation,Carbohydrate Degradation,Sugar Degradation,,P124-PWY: Bifidobacterium shunt
+Generation of Precursor Metabolite and Energy,Fermentation, Fermentation to Alcohols ,Butanediol Biosynthesis,"P125-PWY: superpathway of (R,R)-butanediol biosynthesis"
+Degradation/Utilization/Assimilation,Fermentation,Fermentation to Short-Chain Fatty Acids,Fermentation to Acetate,P161-PWY: acetylene degradation
+Degradation/Utilization/Assimilation,Fermentation,Fermentation to Short-Chain Fatty Acids,Fermentation to Acetate,P162-PWY: L-glutamate degradation V (via hydroxyglutarate)
+Degradation/Utilization/Assimilation,Fermentation,Fermentation to Short-Chain Fatty Acids,Fermentation to Acetate,P163-PWY: L-lysine fermentation to acetate and butanoate
+Degradation/Utilization/Assimilation,Nucleoside and Nucleotide Degradation,Purine Nucleotide Degradation,,P164-PWY: purine nucleobases degradation I (anaerobic)
+Degradation/Utilization/Assimilation,Aromatic Compound Degradation,Urate Degradation,,P165-PWY: superpathway of purines degradation in plants
+Degradation/Utilization/Assimilation,C1 Compound Utilization and Assimilation,Formaldehyde Assimilation,,P185-PWY: formaldehyde assimilation III (dihydroxyacetone cycle)
+Degradation/Utilization/Assimilation,Degradation/Utilization/Assimilation - Other,,,P221-PWY: octane oxidation
+Degradation/Utilization/Assimilation,C1 Compound Utilization and Assimilation,CO2 Fixation,Autotrophic CO2 Fixation,P23-PWY: reductive TCA cycle I
+Biosynthesis,Amino Acid Biosynthesis,,,"P4-PWY: superpathway of L-lysine, L-threonine and L-methionine biosynthesis I"
+Degradation/Utilization/Assimilation,C1 Compound Utilization and Assimilation,CO2 Fixation,Autotrophic CO2 Fixation,P42-PWY: incomplete reductive TCA cycle
+Degradation/Utilization/Assimilation,Carboxylate Degradation,,,P441-PWY: superpathway of N-acetylneuraminate degradation
+Generation of Precursor Metabolite and Energy,Fermentation,Fermentation to Short-Chain Fatty Acids,Fermentation to Lactate,"P461-PWY: hexitol fermentation to lactate, formate, ethanol and acetate"
+Degradation/Utilization/Assimilation,Degradation/Utilization/Assimilation - Other,,,P621-PWY: nylon-6 oligomer degradation
+Biosynthesis,"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis",Vitamin Biosynthesis,Phosphopantothenate Biosynthesis,PANTO-PWY: phosphopantothenate biosynthesis I
+Biosynthesis,"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis",Coenzyme A Biosynthesis,,PANTOSYN-PWY: pantothenate and coenzyme A biosynthesis I
+Generation of Precursor Metabolite and Energy,Pentose Phosphate Pathways,,,PENTOSE-P-PWY: pentose phosphate pathway
+Biosynthesis,Cell Structure Biosynthesis,Cell Wall Biosynthesis,Peptidoglycan Biosynthesis,PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)
+Biosynthesis,Fatty Acid and Lipid Biosynthesis,Phospholipid Biosynthesis,,PHOSLIPSYN-PWY: superpathway of phospholipid biosynthesis I (bacteria)
+Biosynthesis,Amine and Polyamine Biosynthesis,,,POLYAMINSYN3-PWY: superpathway of polyamine biosynthesis II
+Biosynthesis,Amine and Polyamine Biosynthesis,,,POLYAMSYN-PWY: superpathway of polyamine biosynthesis I
+Biosynthesis,"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis",Polyprenyl Biosynthesis,,POLYISOPRENSYN-PWY: polyisoprenoid biosynthesis (E. coli)
+Biosynthesis,Metabolic Regulator Biosynthesis,,,PPGPPMET-PWY: ppGpp biosynthesis
+Degradation/Utilization/Assimilation,Aromatic Compound Degradation,Protocatechuate Degradation,,PROTOCATECHUATE-ORTHO-CLEAVAGE-PWY: protocatechuate degradation II (ortho-cleavage pathway)
+Biosynthesis,Nucleoside and Nucleotide Biosynthesis,,,"PRPP-PWY: superpathway of histidine, purine, and pyrimidine biosynthesis"
+Generation of Precursor Metabolite and Energy,Electron Transfer,,,PWY-101: photosynthesis light reactions
+Generation of Precursor Metabolite and Energy,Glycolysis,,,PWY-1042: glycolysis IV (plant cytosol)
+Biosynthesis,Carbohydrate Biosynthesis,Sugar Biosynthesis,Sugar Nucleotide Biosynthesis,PWY-1269: CMP-3-deoxy-D-manno-octulosonate biosynthesis I
+Degradation/Utilization/Assimilation,C1 Compound Utilization and Assimilation,Formaldehyde Assimilation,,PWY-1861: formaldehyde assimilation II (RuMP Cycle)
+Biosynthesis,"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis",Vitamin Biosynthesis,Folate Biosynthesis,PWY-2201: folate transformations I
+Generation of Precursor Metabolite and Energy,Photosynthesis,,,"PWY-241: C4 photosynthetic carbon assimilation cycle, NADP-ME type"
+Degradation/Utilization/Assimilation,Carbohydrate Degradation,Sugar Degradation,Trehalose Degradation,PWY-2723: trehalose degradation V
+Biosynthesis,Amino Acid Biosynthesis,Proteinogenic Amino Acid Biosynthesis,L-lysine Biosynthesis,PWY-2941: L-lysine biosynthesis II
+Biosynthesis,Amino Acid Biosynthesis,Proteinogenic Amino Acid Biosynthesis,L-lysine Biosynthesis,PWY-2942: L-lysine biosynthesis III
+Biosynthesis,Amino Acid Biosynthesis,Proteinogenic Amino Acid Biosynthesis,L-isoleucine Biosynthesis,PWY-3001: superpathway of L-isoleucine biosynthesis I
+Biosynthesis,"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis",NAD Metabolism,NAD Biosynthesis,PWY-3502: superpathway of NAD biosynthesis in eukaryotes
+Generation of Precursor Metabolite and Energy,Respiration,Aerobic Respiration,,PWY-3781: aerobic respiration I (cytochrome c)
+Degradation/Utilization/Assimilation,Carbohydrate Degradation,Sugar Degradation , Sucrose Degradation,PWY-3801: sucrose degradation II (sucrose synthase)
+Biosynthesis,"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis",Vitamin Biosynthesis,Folate Biosynthesis,PWY-3841: folate transformations II
+Biosynthesis,"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis",Reductant Biosynthesis,,PWY-4041: &gamma;-glutamyl cycle
+Biosynthesis,"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis",,,PWY-4242: pantothenate and coenzyme A biosynthesis III
+Degradation/Utilization/Assimilation,Secondary Metabolite Degradation,Sugar Derivative Degradation,Cyclitol Degradation,PWY-4702: phytate degradation I
+Degradation/Utilization/Assimilation,Amine and Polyamine Degradation,Creatinine Degradation,,PWY-4722: creatinine degradation II
+Biosynthesis,Amino Acid Biosynthesis,Proteinogenic Amino Acid Biosynthesis,L-proline Biosynthesis,PWY-4981: L-proline biosynthesis II (from arginine)
+Degradation/Utilization/Assimilation,Inorganic Nutrient Metabolism,Nitrogen Compound Metabolism,,PWY-4984: urea cycle
+Biosynthesis,"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis",Vitamin Biosynthesis,Biotin Biosynthesis,PWY-5005: biotin biosynthesis II
+Degradation/Utilization/Assimilation,Amine and Polyamine Degradation,4-Aminobutanoate Degradation,,PWY-5022: 4-aminobutanoate degradation V
+Degradation/Utilization/Assimilation,Amino Acid Degradation,Proteinogenic Amino Acid Degradation,L-histidine Degradation,PWY-5028: L-histidine degradation II
+Degradation/Utilization/Assimilation,Amino Acid Degradation,Proteinogenic Amino Acid Degradation,L-histidine Degradation,PWY-5030: L-histidine degradation III
+Degradation/Utilization/Assimilation,Nucleoside and Nucleotide Degradation,Purine Nucleotide Degradation,,PWY-5044: purine nucleotides degradation I (plants)
+Biosynthesis,Carbohydrate Biosynthesis,Polysaccharide Biosynthesis ,Glycogen and Starch Biosynthesis,PWY-5067: glycogen biosynthesis II (from UDP-D-Glucose)
+Degradation/Utilization/Assimilation,Amino Acid Degradation,Proteinogenic Amino Acid Degradation,L-phenylalanine Degradation,PWY-5079: L-phenylalanine degradation III
+Biosynthesis,Fatty Acid and Lipid Biosynthesis,Fatty Acid Biosynthesis,,PWY-5080: very long chain fatty acid biosynthesis I
+Biosynthesis,"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis",NAD Metabolism,,PWY-5083: NAD/NADH phosphorylation and dephosphorylation
+Degradation/Utilization/Assimilation,Amino Acid Degradation,Proteinogenic Amino Acid Degradation ,L-glutamate Degradation,PWY-5088: L-glutamate degradation VIII (to propanoate)
+Biosynthesis,Amino Acid Biosynthesis,Proteinogenic Amino Acid Biosynthesis,L-lysine Biosynthesis,PWY-5097: L-lysine biosynthesis VI
+Generation of Precursor Metabolite and Energy,Fermentation,Fermentation of Pyruvate,Pyruvate Fermentation to Acetate,PWY-5100: pyruvate fermentation to acetate and lactate II
+Biosynthesis,Amino Acid Biosynthesis,Proteinogenic Amino Acid Biosynthesis,L-isoleucine Biosynthesis,PWY-5101: L-isoleucine biosynthesis II
+Biosynthesis,Amino Acid Biosynthesis,Proteinogenic Amino Acid Biosynthesis,L-isoleucine Biosynthesis,PWY-5103: L-isoleucine biosynthesis III
+Biosynthesis,Amino Acid Biosynthesis,Proteinogenic Amino Acid Biosynthesis,L-isoleucine Biosynthesis,PWY-5104: L-isoleucine biosynthesis IV
+Biosynthesis,"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis",Polyprenyl Biosynthesis,Geranylgeranyl Diphosphate Biosynthesis,PWY-5121: superpathway of geranylgeranyl diphosphate biosynthesis II (via MEP)
+Biosynthesis,Fatty Acid and Lipid Biosynthesis,Sphingolipid Biosynthesis,,PWY-5129: sphingolipid biosynthesis (plants)
+Degradation/Utilization/Assimilation,Fatty Acid and Lipid Degradation,Fatty Acid Degradation,,PWY-5136: fatty acid &beta;-oxidation II (peroxisome)
+Degradation/Utilization/Assimilation,Fatty Acid and Lipid Degradation,Fatty Acid Degradation,,"PWY-5138: unsaturated, even numbered fatty acid &beta;-oxidation"
+Biosynthesis,Amino Acid Biosynthesis,Proteinogenic Amino Acid Biosynthesis,L-arginine Biosynthesis,PWY-5154: L-arginine biosynthesis III (via N-acetyl-L-citrulline)
+Generation of Precursor Metabolite and Energy,Acetyl-CoA Biosynthesis,,,PWY-5173: superpathway of acetyl-CoA biosynthesis
+Degradation/Utilization/Assimilation,Carboxylate Degradation,,,PWY-5177: glutaryl-CoA degradation
+Biosynthesis,"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis",Tetrapyrrole Biosynthesis,,PWY-5188: tetrapyrrole biosynthesis I (from glutamate)
+Biosynthesis,"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis",Tetrapyrrole Biosynthesis,,PWY-5189: tetrapyrrole biosynthesis II (from glycine)
+Biosynthesis,Cell Structure Biosynthesis,Cell Wall Biosynthesis,Peptidoglycan Biosynthesis,PWY-5265: peptidoglycan biosynthesis II (staphylococci)
+Degradation/Utilization/Assimilation,Inorganic Nutrient Metabolism,Sulfur Compound Metabolism ,Sulfur Oxidation,PWY-5304: superpathway of sulfur oxidation (Acidianus ambivalens)
+Degradation/Utilization/Assimilation,Inorganic Nutrient Metabolism,Sulfur Compound Metabolism,Sulfite Oxidation,PWY-5306: superpathway of thiosulfate metabolism (Desulfovibrio sulfodismutans)
+Degradation/Utilization/Assimilation,Amino Acid Degradation,Proteinogenic Amino Acid Degradation ,L-methionine DegradationSuperpathways,PWY-5328: superpathway of L-methionine salvage and degradation
+Biosynthesis,Amino Acid Biosynthesis,Proteinogenic Amino Acid Biosynthesis,L-methionine Biosynthesis,PWY-5345: superpathway of L-methionine biosynthesis (by sulfhydrylation)
+Biosynthesis,Amino Acid Biosynthesis,Proteinogenic Amino Acid Biosynthesis,L-methionine Biosynthesis,PWY-5347: superpathway of L-methionine biosynthesis (transsulfuration)
+Biosynthesis,Fatty Acid and Lipid Biosynthesis,Fatty Acid Biosynthesis,Unsaturated Fatty Acid Biosynthesis,PWY-5367: petroselinate biosynthesis
+Biosynthesis,"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis",NAD Metabolism,,PWY-5381: pyridine nucleotide cycling (plants)
+Degradation/Utilization/Assimilation,Carboxylate Degradation,Sugar Degradation,Sucrose Degradation,PWY-5384: sucrose degradation IV (sucrose phosphorylase)
+Generation of Precursor Metabolite and Energy,Glycolysis,,,"PWY-5464: superpathway of cytosolic glycolysis (plants), pyruvate dehydrogenase and TCA cycle"
+Generation of Precursor Metabolite and Energy,Glycolysis,,,PWY-5484: glycolysis II (from fructose 6-phosphate)
+Biosynthesis,"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis",Vitamin Biosynthesis,Cobamide Biosynthesis ,"PWY-5509: adenosylcobalamin biosynthesis from cobyrinate a,c-diamide I"
+Biosynthesis,Carbohydrate Biosynthesis, Sugar Biosynthesis,Sugar Nucleotide Biosynthesis ,PWY-5514: UDP-N-acetyl-D-galactosamine biosynthesis II
+Generation of Precursor Metabolite and Energy,Fatty Acid and Lipid Degradation,Fatty Acid Degradation,,PWY-561: superpathway of glyoxylate cycle and fatty acid degradation
+Degradation/Utilization/Assimilation,Amino Acid Degradation,Proteinogenic Amino Acid Biosynthesis,L-tryptophan Degradation,PWY-5651: L-tryptophan degradation to 2-amino-3-carboxymuconate semialdehyde
+Biosynthesis,Carbohydrate Biosynthesis,Sugar Biosynthesis,Sugar Nucleotide Biosynthesis,PWY-5659: GDP-mannose biosynthesis
+Biosynthesis,Fatty Acid and Lipid Biosynthesis,Phospholipid Biosynthesis,CDP-diacylglycerol Biosynthesis,PWY-5667: CDP-diacylglycerol biosynthesis I
+Degradation/Utilization/Assimilation,Inorganic Nutrient Metabolism,Nitrogen Compound Metabolism,Nitrate Reduction,PWY-5675: nitrate reduction V (assimilatory)
+Generation of Precursor Metabolite and Energy,Fermentation,Fermentation to Short-Chain Fatty Acids,Fermentation to Butanoate,PWY-5676: acetyl-CoA fermentation to butanoate II
+Biosynthesis,Nucleoside and Nucleotide Biosynthesis,Pyrimidine Nucleotide Biosynthesis,Pyrimidine Nucleotide De Novo Biosynthesis,PWY-5686: UMP biosynthesis
+Generation of Precursor Metabolite and Energy,TCA cycle,,,PWY-5690: TCA cycle II (plants and fungi)
+Degradation/Utilization/Assimilation,Nucleoside and Nucleotide Degradation,Purine Nucleotide Degradation,,PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation
+Generation of Precursor Metabolite and Energy,Glycolysis,,,PWY-5723: Rubisco shunt
+Biosynthesis,"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis",Quinol and Quinone Biosynthesis,,"PWY-5791: 1,4-dihydroxy-2-naphthoate biosynthesis II (plants)"
+Biosynthesis,"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis",Quinol and Quinone Biosynthesis,"1,4-Dihydroxy-2-Naphthoate Biosynthesis","PWY-5837: 1,4-dihydroxy-2-naphthoate biosynthesis I"
+Biosynthesis,"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis",Quinol and Quinone Biosynthesis,Menaquinol Biosynthesis,PWY-5838: superpathway of menaquinol-8 biosynthesis I
+Biosynthesis,"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis",Quinol and Quinone Biosynthesis,Menaquinol Biosynthesis,PWY-5840: superpathway of menaquinol-7 biosynthesis
+Biosynthesis,"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis",Quinol and Quinone Biosynthesis,Menaquinol Biosynthesis,PWY-5850: superpathway of menaquinol-6 biosynthesis I
+Biosynthesis,"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis",Quinol and Quinone Biosynthesis,Ubiquinol Biosynthesis,PWY-5855: ubiquinol-7 biosynthesis (prokaryotic)
+Biosynthesis,"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis",Quinol and Quinone Biosynthesis,Ubiquinol Biosynthesis,PWY-5856: ubiquinol-9 biosynthesis (prokaryotic)
+Biosynthesis,"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis",Quinol and Quinone Biosynthesis,Ubiquinol Biosynthesis,PWY-5857: ubiquinol-10 biosynthesis (prokaryotic)
+Biosynthesis,"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis",Quinol and Quinone Biosynthesis,Demethylmenaquinol Biosynthesis,PWY-5860: superpathway of demethylmenaquinol-6 biosynthesis I
+Biosynthesis,"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis",Quinol and Quinone Biosynthesis,Demethylmenaquinol Biosynthesis,PWY-5861: superpathway of demethylmenaquinol-8 biosynthesis
+Biosynthesis,"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis",Quinol and Quinone Biosynthesis,Phylloquinol Biosynthesis,PWY-5863: superpathway of phylloquinol biosynthesis
+Biosynthesis,"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis",Quinol and Quinone Biosynthesis,Ubiquinol Biosynthesis,PWY-5870: ubiquinol-8 biosynthesis (eukaryotic)
+Biosynthesis,"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis",Quinol and Quinone Biosynthesis,Ubiquinol Biosynthesis,PWY-5871: ubiquinol-9 biosynthesis (eukaryotic)
+Biosynthesis,"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis",Quinol and Quinone Biosynthesis,Ubiquinol Biosynthesis,PWY-5872: ubiquinol-10 biosynthesis (eukaryotic)
+Biosynthesis,"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis",Quinol and Quinone Biosynthesis,Ubiquinol Biosynthesis,PWY-5873: ubiquinol-7 biosynthesis (eukaryotic)
+Biosynthesis,"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis",Quinol and Quinone Biosynthesis,Menaquinol Biosynthesis,PWY-5897: superpathway of menaquinol-11 biosynthesis
+Biosynthesis,"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis",Quinol and Quinone Biosynthesis,Menaquinol Biosynthesis,PWY-5898: superpathway of menaquinol-12 biosynthesis
+Biosynthesis,"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis",Quinol and Quinone Biosynthesis,Menaquinol Biosynthesis,PWY-5899: superpathway of menaquinol-13 biosynthesis
+Biosynthesis,"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis",Polyprenyl Biosynthesis,Geranylgeranyl Diphosphate Biosynthesis,PWY-5910: superpathway of geranylgeranyldiphosphate biosynthesis I (via mevalonate)
+Generation of Precursor Metabolite and Energy,TCA cycle,,,PWY-5913: TCA cycle VI (obligate autotrophs)
+Biosynthesis,"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis",Porphyrin Compound Biosynthesis,Heme Biosynthesis,PWY-5918: superpathay of heme biosynthesis from glutamate
+Biosynthesis,"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis",Porphyrin Compound Biosynthesis,Heme Biosynthesis,PWY-5920: superpathway of heme biosynthesis from glycine
+Degradation/Utilization/Assimilation,Carbohydrate Degradation,Polysaccharide Degradation ,Glycogen Degradation,PWY-5941: glycogen degradation II (eukaryotic)
+Biosynthesis,Fatty Acid and Lipid Biosynthesis,Fatty Acid Biosynthesis,Palmitate Biosynthesis,PWY-5971: palmitate biosynthesis II (bacteria and plants)
+Biosynthesis,Fatty Acid and Lipid Biosynthesis,Fatty Acid Biosynthesis,Unsaturated Fatty Acid Biosynthesis,PWY-5973: cis-vaccenate biosynthesis
+Biosynthesis,Fatty Acid and Lipid Biosynthesis,Fatty Acid Biosynthesis,Stearate Biosynthesis,PWY-5989: stearate biosynthesis II (bacteria and plants)
+Biosynthesis,Fatty Acid and Lipid Biosynthesis,Sterol Biosynthesis,,PWY-6074: zymosterol biosynthesis
+Biosynthesis,Fatty Acid and Lipid Biosynthesis,Sterol Biosynthesis,Ergosterol Biosynthesis,PWY-6075: ergosterol biosynthesis I
+Biosynthesis,Fatty Acid and Lipid Biosynthesis,Fatty Acid Biosynthesis,,PWY-6113: superpathway of mycolate biosynthesis
+Biosynthesis,Nucleoside and Nucleotide Biosynthesis,Purine Nucleotide Biosynthesis,5-Aminoimidazole Ribonucleotide Biosynthesis,PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I
+Biosynthesis,Nucleoside and Nucleotide Biosynthesis,Purine Nucleotide Biosynthesis,5-Aminoimidazole Ribonucleotide Biosynthesis,PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II
+Biosynthesis,Nucleoside and Nucleotide Biosynthesis,Purine Nucleotide Biosynthesis,Purine Nucleotide De Novo Biosynthesis,PWY-6123: inosine-5'-phosphate biosynthesis I
+Biosynthesis,Nucleoside and Nucleotide Biosynthesis,Purine Nucleotide Biosynthesis,Purine Nucleotide De Novo Biosynthesis,PWY-6124: inosine-5'-phosphate biosynthesis II
+Biosynthesis,Nucleoside and Nucleotide Biosynthesis,Purine Nucleotide Biosynthesis,Purine Nucleotide De Novo Biosynthesis,PWY-6125: superpathway of guanosine nucleotides de novo biosynthesis II
+Biosynthesis,Nucleoside and Nucleotide Biosynthesis,Purine Nucleotide Biosynthesis,Purine Nucleotide De Novo Biosynthesis,PWY-6126: superpathway of adenosine nucleotides de novo biosynthesis II
+Biosynthesis,"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis",Vitamin Biosynthesis,Folate Biosynthesis,PWY-6147: 6-hydroxymethyl-dihydropterin diphosphate biosynthesis I
+Biosynthesis,Amino Acid Biosynthesis,Proteinogenic Amino Acid Biosynthesis,L-methionine Biosynthesis,PWY-6151: S-adenosyl-L-methionine cycle I
+Biosynthesis,Aromatic Compound Biosynthesis,Chorismate Biosynthesis,,PWY-6163: chorismate biosynthesis from 3-dehydroquinate
+Biosynthesis,"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis",Vitamin Biosynthesis,Flavin Biosynthesis,PWY-6168: flavin biosynthesis III (fungi)
+Degradation/Utilization/Assimilation,Carbohydrate Degradation,Sugar Degradation,Sucrose Degradation,PWY-621: sucrose degradation III (sucrose invertase)
+Biosynthesis,Carbohydrate Biosynthesis,Glycan Biosynthesis,Polysaccharide Biosynthesis,PWY-622: starch biosynthesis
+Biosynthesis,"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis",Quinol and Quinone Biosynthesis,Menaquinol Biosynthesis,PWY-6263: superpathway of menaquinol-8 biosynthesis II
+Biosynthesis,Secondary Metabolite Biosynthesis,Terpenoid Biosynthesis,Hemiterpene Biosynthesis,PWY-6270: isoprene biosynthesis I
+Biosynthesis,Nucleoside and Nucleotide Biosynthesis,Purine Nucleotide Biosynthesis,5-Aminoimidazole Ribonucleotide Biosynthesis,PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis
+Biosynthesis,Fatty Acid and Lipid Biosynthesis,Fatty Acid Biosynthesis,Unsaturated Fatty Acid Biosynthesis,PWY-6282: palmitoleate biosynthesis I (from (5Z)-dodec-5-enoate)
+Biosynthesis,Fatty Acid and Lipid Biosynthesis,Fatty Acid Biosynthesis,Unsaturated Fatty Acid Biosynthesis,PWY-6284: superpathway of unsaturated fatty acids biosynthesis (E. coli)
+Biosynthesis,Fatty Acid and Lipid Biosynthesis,Fatty Acid Biosynthesis,,PWY-6285: superpathway of fatty acids biosynthesis (E. coli)
+Biosynthesis,Amine and Polyamine Biosynthesis,Putrescine Biosynthesis,,PWY-6305: putrescine biosynthesis IV
+Degradation/Utilization/Assimilation,Amino Acid Degradation,Proteinogenic Amino Acid Degradation ,L-tryptophan Degradation,"PWY-6307: L-tryptophan degradation X (mammalian, via tryptamine)"
+Degradation/Utilization/Assimilation,Amino Acid Degradation,Proteinogenic Amino Acid Degradation ,L-tryptophan Degradation,"PWY-6309: L-tryptophan degradation XI (mammalian, via kynurenine)"
+Degradation/Utilization/Assimilation,Hormone Degradation,,,PWY-6313: serotonin degradation
+Degradation/Utilization/Assimilation,Carbohydrate Degradation,Sugar Degradation,Galactose Degradation,PWY-6317: galactose degradation I (Leloir pathway)
+Degradation/Utilization/Assimilation,Amino Acid Degradation,Proteinogenic Amino Acid Degradation,L-phenylalanine Degradation,"PWY-6318: L-phenylalanine degradation IV (mammalian, via side chain)"
+Biosynthesis,Secondary Metabolite Biosynthesis,Sugar Derivative Biosynthesis ,Sugar Alcohol Biosynthesis ,"PWY-6351: D-myo-inositol (1,4,5)-trisphosphate biosynthesis"
+Degradation/Utilization/Assimilation,Nucleoside and Nucleotide Degradation,Purine Nucleotide Degradation,,PWY-6353: purine nucleotides degradation II (aerobic)
+Biosynthesis,Cell Structure Biosynthesis,Cell Wall Biosynthesis,Peptidoglycan Biosynthesis,PWY-6385: peptidoglycan biosynthesis III (mycobacteria)
+Biosynthesis,Cell Structure Biosynthesis,Cell Wall Biosynthesis,UDP-N-Acetylmuramoyl-Pentapeptide Biosynthesis,PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)
+Biosynthesis,Cell Structure Biosynthesis,Cell Wall Biosynthesis,UDP-N-Acetylmuramoyl-Pentapeptide Biosynthesis,PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)
+Generation of Precursor Metabolite and Energy,Fermentation,Fermentation to Alcohols,Butanediol Biosynthesis,"PWY-6396: superpathway of 2,3-butanediol biosynthesis"
+Biosynthesis,Fatty Acid and Lipid Biosynthesis,Fatty Acid Biosynthesis,Hydroxylated Fatty Acid Biosynthesis,PWY-6433: hydroxylated fatty acid biosynthesis (plants)
+Biosynthesis,Cell Structure Biosynthesis,Cell Wall Biosynthesis,Peptidoglycan Biosynthesis,PWY-6471: peptidoglycan biosynthesis IV (Enterococcus faecium)
+Degradation/Utilization/Assimilation,Secondary Metabolite Degradation,Sugar Derivative Degradation,,PWY-6507: 4-deoxy-L-threo-hex-4-enopyranuronate degradation
+Biosynthesis,"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis",Vitamin Biosynthesis,Biotin Biosynthesis,PWY-6519: 8-amino-7-oxononanoate biosynthesis I
+Degradation/Utilization/Assimilation,Carbohydrate Degradation,Sugar Degradation,,PWY-6527: stachyose degradation
+Biosynthesis,Nucleoside and Nucleotide Biosynthesis,Pyrimidine Nucleotide Biosynthesis,Pyrimidine Nucleotide De Novo Biosynthesis,PWY-6545: pyrimidine deoxyribonucleotides de novo biosynthesis III
+Biosynthesis,Amino Acid Biosynthesis,Proteinogenic Amino Acid Biosynthesis,L-glutamine Biosynthesis,PWY-6549: L-glutamine biosynthesis III
+Biosynthesis,Amine and Polyamine Biosynthesis,,,PWY-6562: norspermidine biosynthesis
+Generation of Precursor Metabolite and Energy,Fermentation,Fermentation of Pyruvate,,PWY-6588: pyruvate fermentation to acetone
+Degradation/Utilization/Assimilation,Nucleoside and Nucleotide Degradation,Purine Nucleotide Degradation,Guanosine Nucleotide Degradation,PWY-6595: superpathway of guanosine nucleotides degradation (plants)
+Degradation/Utilization/Assimilation,Nucleoside and Nucleotide Degradation,Purine Nucleotide Degradation,Adenosine Nucleotide Degradation,PWY-6596: adenosine nucleotides degradation I
+Biosynthesis,Fatty Acid and Lipid Biosynthesis,Fatty Acid Biosynthesis,Unsaturated Fatty Acid Biosynthesis,PWY-6598: sciadonate biosynthesis
+Degradation/Utilization/Assimilation,Nucleoside and Nucleotide Degradation,Purine Nucleotide Degradation,Guanosine Nucleotide Degradation,PWY-6606: guanosine nucleotides degradation II
+Degradation/Utilization/Assimilation,Nucleoside and Nucleotide Degradation,Purine Nucleotide Degradation,Guanosine Nucleotide Degradation,PWY-6608: guanosine nucleotides degradation III
+Biosynthesis,Nucleoside and Nucleotide Biosynthesis,Purine Nucleotide Biosynthesis,Purine Nucleotide Salvage,PWY-6609: adenine and adenosine salvage III
+Biosynthesis,"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis",Vitamin Biosynthesis,Folate Biosynthesis,PWY-6612: superpathway of tetrahydrofolate biosynthesis
+Biosynthesis,Amino Acid Biosynthesis,Proteinogenic Amino Acid Biosynthesis,L-phenylalanine Biosynthesis,PWY-6628: superpathway of L-phenylalanine biosynthesis
+Biosynthesis,Amino Acid Biosynthesis,Proteinogenic Amino Acid Biosynthesis,L-tryptophan Biosynthesis,PWY-6629: superpathway of L-tryptophan biosynthesis
+Biosynthesis,Amino Acid Biosynthesis,Proteinogenic Amino Acid Biosynthesis,L-tyrosine Biosynthesis,PWY-6630: superpathway of L-tyrosine biosynthesis
+Biosynthesis,Secondary Metabolite Biosynthesis,,,PWY-6660: 2-heptyl-3-hydroxy-4(1H)-quinolone biosynthesis
+Biosynthesis,Secondary Metabolite Biosynthesis,,,PWY-6662: superpathway of quinolone and alkylquinolone biosynthesis
+Macromolecule Modification,Nucleic Acid Processing,,,PWY-6700: queuosine biosynthesis
+Biosynthesis,Secondary Metabolite Biosynthesis,,,PWY-6703: preQ0 biosynthesis
+Biosynthesis,"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis",Quinol and Quinone Biosynthesis,Ubiquinol Biosynthesis,PWY-6708: ubiquinol-8 biosynthesis (prokaryotic)
+Degradation/Utilization/Assimilation,Carbohydrate Degradation,Polysaccharide Degradation,Starch Degradation,PWY-6731: starch degradation III
+Degradation/Utilization/Assimilation,Carbohydrate Degradation,Polysaccharide Degradation,Starch Degradation,PWY-6737: starch degradation V
+Degradation/Utilization/Assimilation,Inorganic Nutrient Metabolism,Nitrogen Compound Metabolism,Denitrification,PWY-6748: nitrate reduction VII (denitrification)
+Biosynthesis,Carbohydrate Biosynthesis,Sugar Biosynthesis,Sugar Nucleotide Biosynthesis,PWY-6749: CMP-legionaminate biosynthesis I
+Biosynthesis,Fatty Acid and Lipid Biosynthesis,,,PWY-6803: phosphatidylcholine acyl editing
+Biosynthesis,"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis",Molybdenum Cofactor Biosynthesis,,PWY-6823: molybdenum cofactor biosynthesis
+Macromolecule Modification,Nucleic Acid Processing,,,PWY-6829: tRNA methylation (yeast)
+Degradation/Utilization/Assimilation,Fatty Acid and Lipid Degradation,Fatty Acid Degradation,,"PWY-6837: fatty acid beta-oxidation V (unsaturated, odd number, di-isomerase-dependent)"
+Generation of Precursor Metabolite and Energy,,,,PWY-6859: all-trans-farnesol biosynthesis
+Biosynthesis,"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis",Vitamin Biosynthesis,Thiamine Biosynthesis,PWY-6891: thiazole biosynthesis II (Bacillus)
+Biosynthesis,"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis",Vitamin Biosynthesis,Thiamine Biosynthesis,PWY-6892: thiazole biosynthesis I (E. coli)
+Biosynthesis,"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis",Vitamin Biosynthesis,Thiamine Biosynthesis,PWY-6895: superpathway of thiamin diphosphate biosynthesis II
+Biosynthesis,"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis",Vitamin Biosynthesis,Thiamine Biosynthesis,PWY-6897: thiamin salvage II
+Degradation/Utilization/Assimilation,Carbohydrate Degradation,Sugar Degradation,,PWY-6901: superpathway of glucose and xylose degradation
+Biosynthesis,Amino Acid Biosynthesis,Other Amino Acid Biosynthesis,,PWY-6936: seleno-amino acid biosynthesis
+Generation of Precursor Metabolite and Energy,TCA cycle,,,PWY-6969: TCA cycle V (2-oxoglutarate:ferredoxin oxidoreductase)
+Biosynthesis,Carbohydrate Biosynthesis,Glycan Biosynthesis,Polysaccharide Biosynthesis,PWY-6981: chitin biosynthesis
+Generation of Precursor Metabolite and Energy,Fermentation,Fermentation to Alcohols,,PWY-7003: glycerol degradation to butanol
+Degradation/Utilization/Assimilation,Alcohol Degradation,,,"PWY-7013: L-1,2-propanediol degradation"
+Biosynthesis,Carbohydrate Biosynthesis,Glycan Biosynthesis,Protein Glycosylation,PWY-7031: protein N-glycosylation (bacterial)
+Biosynthesis,Fatty Acid and Lipid Biosynthesis,Fatty Acid Biosynthesis,,PWY-7036: very long chain fatty acid biosynthesis II
+Biosynthesis,Fatty Acid and Lipid Biosynthesis,Phospholipid Biosynthesis,,"PWY-7039: phosphatidate metabolism, as a signaling molecule"
+Biosynthesis,Fatty Acid and Lipid Biosynthesis,Fatty Acid Biosynthesis,Unsaturated Fatty Acid Biosynthesis ,PWY-7053: docosahexaenoate biosynthesis I (lower eukaryotes)
+Generation of Precursor Metabolite and Energy,Fermentation,Fermentation of Pyruvate,,PWY-7111: pyruvate fermentation to isobutanol (engineered)
+Generation of Precursor Metabolite and Energy,Photosynthesis,,,"PWY-7115: C4 photosynthetic carbon assimilation cycle, NAD-ME type"
+Generation of Precursor Metabolite and Energy,Photosynthesis,,,"PWY-7117: C4 photosynthetic carbon assimilation cycle, PEPCK type"
+Generation of Precursor Metabolite and Energy,,,,PWY-7118: chitin degradation to ethanol
+Biosynthesis,Nucleoside and Nucleotide Biosynthesis,Pyrimidine Nucleotide Biosynthesis,Pyrimidine Nucleotide De Novo Biosynthesis,PWY-7184: pyrimidine deoxyribonucleotides de novo biosynthesis I
+Biosynthesis,Nucleoside and Nucleotide Biosynthesis,Pyrimidine Nucleotide Biosynthesis,Pyrimidine Nucleotide De Novo Biosynthesis,PWY-7187: pyrimidine deoxyribonucleotides de novo biosynthesis II
+Biosynthesis,Nucleoside and Nucleotide Biosynthesis,Pyrimidine Nucleotide Biosynthesis,Pyrimidine Nucleotide Salvage,PWY-7196: superpathway of pyrimidine ribonucleosides salvage
+Biosynthesis,Nucleoside and Nucleotide Biosynthesis,Pyrimidine Nucleotide Biosynthesis,Pyrimidine Nucleotide Salvage,PWY-7197: pyrimidine deoxyribonucleotide phosphorylation
+Biosynthesis,Nucleoside and Nucleotide Biosynthesis,Pyrimidine Nucleotide Biosynthesis,Pyrimidine Nucleotide De Novo Biosynthesis,PWY-7198: pyrimidine deoxyribonucleotides de novo biosynthesis IV
+Biosynthesis,Nucleoside and Nucleotide Biosynthesis,Pyrimidine Nucleotide Biosynthesis,Pyrimidine Nucleotide Salvage,PWY-7199: pyrimidine deoxyribonucleosides salvage
+Biosynthesis,"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis",Vitamin Biosynthesis,Vitamin B6 Biosynthesis,PWY-7204: pyridoxal 5'-phosphate salvage II (plants)
+Biosynthesis,Nucleoside and Nucleotide Biosynthesis,Pyrimidine Nucleotide Biosynthesis,Pyrimidine Nucleotide Salvage,PWY-7208: superpathway of pyrimidine nucleobases salvage
+Degradation/Utilization/Assimilation,Nucleoside and Nucleotide Degradation,Pyrimidine Nucleotide Degradation,Pyrimidine Nucleobase Degradation,PWY-7209: superpathway of pyrimidine ribonucleosides degradation
+Biosynthesis,Nucleoside and Nucleotide Biosynthesis,Pyrimidine Nucleotide Biosynthesis,Pyrimidine Nucleotide Salvage,PWY-7210: pyrimidine deoxyribonucleotides biosynthesis from CTP
+Biosynthesis,Nucleoside and Nucleotide Biosynthesis,Pyrimidine Nucleotide Biosynthesis,Pyrimidine Nucleotide De Novo Biosynthesis,PWY-7211: superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis
+Biosynthesis,Nucleoside and Nucleotide Biosynthesis,Purine Nucleotide Biosynthesis,Purine Nucleotide De Novo Biosynthesis,PWY-7219: adenosine ribonucleotides de novo biosynthesis
+Biosynthesis,Nucleoside and Nucleotide Biosynthesis,Purine Nucleotide Biosynthesis,Purine Nucleotide De Novo Biosynthesis,PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II
+Biosynthesis,Nucleoside and Nucleotide Biosynthesis,Purine Nucleotide Biosynthesis,Purine Nucleotide De Novo Biosynthesis,PWY-7221: guanosine ribonucleotides de novo biosynthesis
+Biosynthesis,Nucleoside and Nucleotide Biosynthesis,Purine Nucleotide Biosynthesis,Purine Nucleotide De Novo Biosynthesis,PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II
+Biosynthesis,Nucleoside and Nucleotide Biosynthesis,Purine Nucleotide Biosynthesis,Purine Nucleotide De Novo Biosynthesis,PWY-7228: superpathway of guanosine nucleotides de novo biosynthesis I
+Biosynthesis,Nucleoside and Nucleotide Biosynthesis,Purine Nucleotide Biosynthesis,Purine Nucleotide De Novo Biosynthesis,PWY-7229: superpathway of adenosine nucleotides de novo biosynthesis I
+Biosynthesis,Nucleoside and Nucleotide Biosynthesis,Purine Nucleotide Biosynthesis,Purine Nucleotide De Novo Biosynthesis,PWY-7234: inosine-5'-phosphate biosynthesis III
+Biosynthesis,"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis",Quinol and Quinone Biosynthesis,Ubiquinol BiosynthesisSuperpathways,PWY-7235: superpathway of ubiquinol-6 biosynthesis (eukaryotic)
+Degradation/Utilization/Assimilation,Secondary Metabolite Degradation,Sugar Derivative Degradation,Sugar Alcohol Degradation,"PWY-7237: myo-, chiro- and scillo-inositol degradation"
+Degradation/Utilization/Assimilation,Secondary Metabolite Degradation,Sugar Derivative Degradation,Sugar Acid Degradation,PWY-7242: D-fructuronate degradation
+Biosynthesis,"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis",NAD Metabolism,,PWY-7245: superpathway NAD/NADP - NADH/NADPH interconversion (yeast)
+Biosynthesis,Amino Acid Biosynthesis,,,"PWY-724: superpathway of L-lysine, L-threonine and L-methionine biosynthesis II"
+Generation of Precursor Metabolite and Energy,TCA cycle,,,PWY-7254: TCA cycle VII (acetate-producers)
+Biosynthesis,"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis",NAD Metabolism,,PWY-7268: NAD/NADP-NADH/NADPH cytosolic interconversion (yeast)
+Biosynthesis,"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis",NAD Metabolism,,PWY-7269: NAD/NADP-NADH/NADPH mitochondrial interconversion (yeast)
+Generation of Precursor Metabolite and Energy,Respiration,Aerobic Respiration,,PWY-7279: aerobic respiration II (cytochrome c) (yeast)
+Biosynthesis,"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis",Vitamin Biosynthesis,Thiamine Biosynthesis,PWY-7282: 4-amino-2-methyl-5-phosphomethylpyrimidine biosynthesis (yeast)
+Macromolecule Modification,Nucleic Acid Processing,,,PWY-7283: wybutosine biosynthesis
+Macromolecule Modification,Nucleic Acid Processing,,,PWY-7286: 7-(3-amino-3-carboxypropyl)-wyosine biosynthesis
+Degradation/Utilization/Assimilation,Fatty Acid and Lipid Degradation,Fatty Acid Degradation,,"PWY-7288: fatty acid &beta;-oxidation (peroxisome, yeast)"
+Biosynthesis,Carbohydrate Biosynthesis,Sugar Biosynthesis,Sugar Nucleotide Biosynthesis,PWY-7323: superpathway of GDP-mannose-derived O-antigen building blocks biosynthesis
+Biosynthesis,Carbohydrate Biosynthesis,Sugar Biosynthesis,Sucrose Biosynthesis,PWY-7328: superpathway of UDP-glucose-derived O-antigen building blocks biosynthesis
+Degradation/Utilization/Assimilation,Carbohydrate Degradation,Sugar Degradation ,,PWY-7345: superpathway of anaerobic sucrose degradation
+Biosynthesis,"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis",Vitamin Biosynthesis,Thiamine Biosynthesis,PWY-7357: thiamin formation from pyrithiamine and oxythiamine (yeast)
+Biosynthesis,"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis",Quinol and Quinone Biosynthesis,"1,4-dihydroxy-6-naphthoate biosynthesis","PWY-7371: 1,4-dihydroxy-6-naphthoate biosynthesis II"
+Biosynthesis,"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis",Quinol and Quinone Biosynthesis,Demethylmenaquinol Biosynthesis,PWY-7373: superpathway of demethylmenaquinol-6 biosynthesis II
+Generation of Precursor Metabolite and Energy,Fermentation,,,"PWY-7383: anaerobic energy metabolism (invertebrates, cytosol)"
+Biosynthesis,"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis",Quinol and Quinone Biosynthesis,Demethylmenaquinol Biosynthesis,"PWY-7385: 1,3-propanediol biosynthesis (engineered)"
+Biosynthesis,Fatty Acid and Lipid Biosynthesis,Fatty Acid Biosynthesis,,"PWY-7388: octanoyl-[acyl-carrier protein] biosynthesis (mitochondria, yeast)"
+Biosynthesis,Secondary Metabolite Biosynthesis,Terpenoid Biosynthesis,Hemiterpene Biosynthesis,PWY-7391: isoprene biosynthesis II (engineered)
+Biosynthesis,Secondary Metabolite Biosynthesis,Terpenoid Biosynthesis,Diterpenoid Biosynthesis,PWY-7392: taxadiene biosynthesis (engineered)
+Biosynthesis,Amino Acid Biosynthesis,Proteinogenic Amino Acid Biosynthesis,L-arginine Biosynthesis,PWY-7400: L-arginine biosynthesis IV (archaebacteria)
+Biosynthesis,Fatty Acid and Lipid Biosynthesis,Phospholipid Biosynthesis,Phosphatidylethanolamine Biosynthesis,"PWY-7409: phospholipid remodeling (phosphatidylethanolamine, yeast)"
+Biosynthesis,Fatty Acid and Lipid Biosynthesis,Phospholipid Biosynthesis,,PWY-7411: superpathway of phosphatidate biosynthesis (yeast)
+Biosynthesis,Fatty Acid and Lipid Biosynthesis,,,PWY-7420: monoacylglycerol metabolism (yeast)
+Degradation/Utilization/Assimilation,Amine and Polyamine Degradation,,,PWY-7431: aromatic biogenic amine degradation (bacteria)
+Degradation/Utilization/Assimilation,Carbohydrate Degradation,Polysaccharide Degradation,,PWY-7456: mannan degradation
+Biosynthesis,"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis",Vitamin Biosynthesis,Folate Biosynthesis,PWY-7539: 6-hydroxymethyl-dihydropterin diphosphate biosynthesis III (Chlamydia)
+Biosynthesis,Amino Acid Biosynthesis,Modification of Amino Acid Within Proteins,,PWY-7546: diphthamide biosynthesis (eukaryotes)
+Biosynthesis,Secondary Metabolite Biosynthesis,Terpenoid Biosynthesis,Hemiterpene Biosynthesis,PWY-7560: methylerythritol phosphate pathway II
+Biosynthesis,Fatty Acid and Lipid Biosynthesis,Fatty Acid Biosynthesis,Unsaturated Fatty Acid Biosynthesis,PWY-7592: arachidonate biosynthesis III (metazoa)
+Biosynthesis,Fatty Acid and Lipid Biosynthesis,Fatty Acid Biosynthesis,Unsaturated Fatty Acid Biosynthesis,PWY-7619: juniperonate biosynthesis
+Biosynthesis,Fatty Acid and Lipid Biosynthesis,Fatty Acid Biosynthesis,Unsaturated Fatty Acid Biosynthesis,PWY-7663: gondoate biosynthesis (anaerobic)
+Biosynthesis,Fatty Acid and Lipid Biosynthesis,Fatty Acid Biosynthesis,Unsaturated Fatty Acid Biosynthesis,PWY-7664: oleate biosynthesis IV (anaerobic)
+Biosynthesis,Amino Acid Biosynthesis,,,PWY-821: superpathway of sulfur amino acid biosynthesis (Saccharomyces cerevisiae)
+Biosynthesis,Nucleoside and Nucleotide Biosynthesis,Purine Nucleotide Biosynthesis,Purine Nucleotide De Novo Biosynthesis,PWY-841: superpathway of purine nucleotides de novo biosynthesis I
+Biosynthesis,Secondary Metabolite Biosynthesis,Terpenoid Biosynthesis,Hemiterpene Biosynthesis,PWY-922: mevalonate pathway I
+Biosynthesis,Amino Acid Biosynthesis,Proteinogenic Amino Acid Biosynthesis,L-alanine Biosynthesis,PWY0-1061: superpathway of L-alanine biosynthesis
+Biosynthesis,Carbohydrate Biosynthesis,Sugar Biosynthesis,Sugar Nucleotide Biosynthesis,PWY0-1241: ADP-L-glycero-&beta;-D-manno-heptose biosynthesis
+Degradation/Utilization/Assimilation,Secondary Metabolite Degradation,Sugar Derivative Degradation,Anhydromuropeptide Recycling,PWY0-1261: anhydromuropeptides recycling
+Degradation/Utilization/Assimilation,Nucleoside and Nucleotide Degradation,Purine Nucleotide Degradation,,PWY0-1296: purine ribonucleosides degradation
+Degradation/Utilization/Assimilation,Nucleoside and Nucleotide Degradation,,,PWY0-1297: superpathway of purine deoxyribonucleosides degradation
+Degradation/Utilization/Assimilation,Nucleoside and Nucleotide Biosynthesis,Pyrimidine Nucleotide Degradation,,PWY0-1298: superpathway of pyrimidine deoxyribonucleosides degradation
+Biosynthesis,Fatty Acid and Lipid Biosynthesis,Phospholipid Biosynthesis,CDP-diacylglycerol Biosynthesis,PWY0-1319: CDP-diacylglycerol biosynthesis II
+Biosynthesis,Cell Structure Biosynthesis,Lipopolysaccharide Biosynthesis,,PWY0-1338: polymyxin resistance
+Biosynthesis,"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis",Porphyrin Compound Biosynthesis,,PWY0-1415: superpathway of heme biosynthesis from uroporphyrinogen-III
+Macromolecule Modification,Nucleic Acid Processing,,,PWY0-1479: tRNA processing
+Biosynthesis,Cell Structure Biosynthesis,Cell Wall Biosynthesis,Peptidglycan Biosynthesis,PWY0-1586: peptidoglycan maturation (meso-diaminopimelate containing)
+Biosynthesis,Nucleoside and Nucleotide Biosynthesis,Pyrimidine Nucleotide Biosynthesis,Pyrimidine Nucleotide De Novo Biosynthesis,PWY0-162: superpathway of pyrimidine ribonucleotides de novo biosynthesis
+Biosynthesis,Nucleoside and Nucleotide Biosynthesis,Pyrimidine Nucleotide Biosynthesis,Pyrimidine Nucleotide De Novo Biosynthesis,PWY0-166: superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis (E. coli)
+Biosynthesis,Amino Acid Biosynthesis,Proteinogenic Amino Acid Biosynthesis,,PWY0-781: aspartate superpathway
+Biosynthesis,"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis",Vitamin Biosynthesis,Vitamin B6 Biosynthesis,PWY0-845: superpathway of pyridoxal 5'-phosphate biosynthesis and salvage
+Biosynthesis,Fatty Acid and Lipid Biosynthesis,Fatty Acid Biosynthesis,Unsaturated Fatty Acid Biosynthesis,PWY0-862: (5Z)-dodec-5-enoate biosynthesis
+Biosynthesis,Fatty Acid and Lipid Biosynthesis,Fatty Acid Biosynthesis,,PWY0-881: superpathway of fatty acid biosynthesis I (E. coli)
+Biosynthesis,Secondary Metabolite Biosynthesis,Phenylpropanoid Derivative Biosynthesis,Flavonoid Biosynthesis,PWY1F-823: leucopelargonidin and leucocyanidin biosynthesis
+Biosynthesis,"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis",Reductant Biosynthesis,,PWY1G-0: mycothiol biosynthesis
+Biosynthesis,"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis",Quinol and Quinone Biosynthesis ,Ubiquinol Biosynthesis,PWY3O-19: ubiquinol-6 biosynthesis from 4-hydroxybenzoate (eukaryotic)
+Biosynthesis,Fatty Acid and Lipid Biosynthesis,Fatty Acid Biosynthesis,Stearate Biosynthesis,PWY3O-355: stearate biosynthesis III (fungi)
+Biosynthesis,Fatty Acid and Lipid Biosynthesis,Phospholipid Biosynthesis,Phosphatidylglycerol Biosynthesis,PWY4FS-7: phosphatidylglycerol biosynthesis I (plastidic)
+Biosynthesis,Fatty Acid and Lipid Biosynthesis,Phospholipid Biosynthesis,Phosphatidylglycerol Biosynthesis,PWY4FS-8: phosphatidylglycerol biosynthesis II (non-plastidic)
+Generation of Precursor Metabolite and Energy,Fermentation,Fermentation of Pyruvate,,PWY4LZ-257: superpathway of fermentation (Chlamydomonas reinhardtii)
+Generation of Precursor Metabolite and Energy,Other,,,PWY66-367: ketogenesis
+Biosynthesis,Hormone Biosynthesis,,,PWY66-375: leukotriene biosynthesis
+Degradation/Utilization/Assimilation,Fatty Acid and Lipid Degradation,,,PWY66-388: fatty acid &alpha;-oxidation III
+Degradation/Utilization/Assimilation,Alcohol Degradation,,,PWY66-389: phytol degradation
+Degradation/Utilization/Assimilation,Fatty Acid and Lipid Degradation,,,PWY66-391: fatty acid &beta;-oxidation VI (peroxisome)
+Generation of Precursor Metabolite and Energy,TCA cycle,,,PWY66-398: TCA cycle III (animals)
+Generation of Precursor Metabolite and Energy,TCA cycle,,,PWY66-399: gluconeogenesis III
+Generation of Precursor Metabolite and Energy,TCA cycle,,,PWY66-400: glycolysis VI (metazoan)
+Biosynthesis,Nucleoside and Nucleotide Biosynthesis,Purine Nucleotide Biosynthesis ,Purine Nucleotide Salvage,PWY66-409: superpathway of purine nucleotide salvage
+Degradation/Utilization/Assimilation,Carboxylate Degradation,Sugar Degradation,Galactose Degradation,PWY66-422: D-galactose degradation V (Leloir pathway)
+Biosynthesis,Fatty Acid and Lipid Biosynthesis,Fatty Acid Biosynthesis,,PWYG-321: mycolate biosynthesis
+Biosynthesis,"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis",NAD Metabolism,NAD Biosyntheisis,PYRIDNUCSAL-PWY: NAD salvage pathway I
+Biosynthesis,"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis",NAD Metabolism,NAD Biosyntheisis,PYRIDNUCSYN-PWY: NAD biosynthesis I (from aspartate)
+Biosynthesis,"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis",Vitamin Biosynthesis,Vitamin B6 Biosynthesis,PYRIDOXSYN-PWY: pyridoxal 5'-phosphate biosynthesis I
+Generation of Precursor Metabolite and Energy,TCA cycle,,,REDCITCYC: TCA cycle VIII (helicobacter)
+Degradation/Utilization/Assimilation,Carbohydrate Degradation,Sugar Degradation,L-rhamnose Degradation,RHAMCAT-PWY: L-rhamnose degradation I
+Biosynthesis,"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis",Vitamin Biosynthesis,Flavin Biosynthesis,RIBOSYN2-PWY: flavin biosynthesis I (bacteria and plants)
+Degradation/Utilization/Assimilation,Nucleoside and Nucleotide Degradation,Purine Degradation,Adenosine Nucleotide Degradation,SALVADEHYPOX-PWY: adenosine nucleotides degradation II
+Biosynthesis,Amino Acid Biosynthesis,,,SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I
+Degradation/Utilization/Assimilation,Inorganic Nutrient Metabolism,Sulfur Compound Metabolism,Assimilatory Sulfate Reduction,SO4ASSIM-PWY: sulfate reduction I (assimilatory)
+Biosynthesis,Fatty Acid and Lipid Biosynthesis,Sphingolipid Biosynthesis,,SPHINGOLIPID-SYN-PWY: sphingolipid biosynthesis (yeast)
+Biosynthesis,Inorganic Nutrient Metabolism,Sulfur Compound Metabolism,,SULFATE-CYS-PWY: superpathway of sulfate assimilation and cysteine biosynthesis
+Generation of Precursor Metabolite and Energy,TCA cycle,,,TCA-GLYOX-BYPASS: superpathway of glyoxylate bypass and TCA
+Generation of Precursor Metabolite and Energy,TCA cycle,,,TCA: TCA cycle I (prokaryotic)
+Biosynthesis,Cell Structure Biosynthesis,Cell Wall Biosynthesis,Teichoic Acid Biosynthesis,TEICHOICACID-PWY: teichoic acid (poly-glycerol) biosynthesis
+Biosynthesis,"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis",Vitamin Biosynthesis,Thiamine Biosynthesis,THISYN-PWY: superpathway of thiamin diphosphate biosynthesis I
+Biosynthesis,"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis",Vitamin Biosynthesis,Thiamine Biosynthesis,THISYNARA-PWY: superpathway of thiamin diphosphate biosynthesis III (eukaryotes)
+Biosynthesis,Amino Acid Biosynthesis,Proteinogenic Amino Acid Biosynthesis,L-threonine Biosynthesis,THRESYN-PWY: superpathway of L-threonine biosynthesis
+Biosynthesis,Fatty Acid and Lipid Biosynthesis,,,TRIGLSYN-PWY: diacylglycerol and triacylglycerol biosynthesis
+Biosynthesis,Aminoacyl-tRNA Charging,,,TRNA-CHARGING-PWY: tRNA charging
+Biosynthesis,Amino Acid Biosynthesis,Proteinogenic Amino Acid Biosynthesis,L-tryptophan Biosynthesis,TRPSYN-PWY: L-tryptophan biosynthesis
+Degradation/Utilization/Assimilation,Amino Acid Degradation,Proteinogenic Amino Acid Degradation,L-tyrosine Degradation,TYRFUMCAT-PWY: L-tyrosine degradation I
+Biosynthesis,"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis",Quinol and Quinone Biosynthesis,Ubiquinol Biosynthesis,UBISYN-PWY: superpathway of ubiquinol-8 biosynthesis (prokaryotic)
+Biosynthesis,Carbohydrate Biosynthesis,Sugar Biosynthesis,Sugar Nucleotide Biosynthesis ,UDPNACETYLGALSYN-PWY: UDP-N-acetyl-D-glucosamine biosynthesis II
+Biosynthesis,Carbohydrate Biosynthesis,Sugar Biosynthesis,Sugar Nucleotide Biosynthesis,UDPNAGSYN-PWY: UDP-N-acetyl-D-glucosamine biosynthesis I
+UNINTEGRATED,UNINTEGRATED,UNINTEGRATED,UNINTEGRATED,UNINTEGRATED
+UNMAPPED,UNMAPPED,UNMAPPED,UNMAPPED,UNMAPPED
+Biosynthesis,Amine and Polyamine Biosynthesis,,,URSIN-PWY: ureide biosynthesis
+Biosynthesis,Amino Acid Biosynthesis,Proteinogenic Amino Acid Biosynthesis,L-valine Biosynthesis,VALSYN-PWY: L-valine biosynthesis
